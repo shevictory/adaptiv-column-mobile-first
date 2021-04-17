@@ -72,6 +72,7 @@
 .col-xl-11,
 .col-xl-12 { */
 .col {
+  /* desktop-first flex:1 */
   flex: 100%;
   text-align: center;
   padding: calc(var(--col-gutter) / 2);
